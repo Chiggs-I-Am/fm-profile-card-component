@@ -55,4 +55,4 @@ I need to understand background-image positioning a bit more.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Chiggs-I-Am)
+- Frontend Mentor - [@Chiggs-I-Am](https://www.frontendmentor.io/profile/Chiggs-I-Am)
