@@ -27,7 +27,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: (https://github.com/Chiggs-I-Am/fm-profile-card-component)
+- Solution URL: [Github](https://github.com/Chiggs-I-Am/fm-profile-card-component)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
